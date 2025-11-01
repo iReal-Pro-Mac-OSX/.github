@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://software-osx.github.io/.github/irealmac">  
+<a href="https://get-software-osx.github.io/.github/irealmac">  
 <img src="https://img.shields.io/badge/Get_iReal_Pro_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get iReal Pro">  
 </a>  
 </div>  
